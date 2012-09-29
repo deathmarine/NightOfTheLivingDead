@@ -1,0 +1,7 @@
+mysql-database: 'jdbc:mysql://localhost:3306/joshmod'
+mysql-user: 'root'
+mysql-password: 'root'
+#Change these if you want to load or create different databases#
+
+
+WorldName: world

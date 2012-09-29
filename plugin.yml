@@ -1,0 +1,38 @@
+name: NightOfTheLivingDead
+main: com.modcrafting.nightofthelivingdead.NightOfTheLivingDead
+version: 1.9
+website: http://modcrafting.com
+author: Deathmarine
+description: >
+             Plugin for Bukkit.
+commands:
+  backpack:
+    description:
+    usage: /<command>
+  decoy:
+    description:
+    usage: /<command>
+  trash:
+    desciption:
+    usage: /<command>
+  killall:
+    description:
+    usage: /<command>
+  resetall:
+    description:
+    usage: /<command>
+  banself:
+    description:
+    usage: /<command>
+  setitem:
+    description:
+    usage: /<command>
+  setplayer:
+    description:
+    usage: /<command>
+  xp:
+    description:
+    usage: /<command>
+  merc:
+    description:
+    usage: /<command>
